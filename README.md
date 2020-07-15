@@ -1,6 +1,6 @@
 # Getting up to speed with Dask
 
-![Dask](https://docs.dask.org/en/latest/_images/dask_horizontal.svg =400x)
+<img alt="dask" src="https://docs.dask.org/en/latest/_images/dask_horizontal.svg" width="400">
 
 [Dask](https://dask.org/) is a native Python library for parallel computing. This tutorial shows how you can scale data science from a laptop to a cluster using Dask.
 
