@@ -1,0 +1,3 @@
+dask-worker-space/*
+data/*
+.ipynb_checkpoints/*

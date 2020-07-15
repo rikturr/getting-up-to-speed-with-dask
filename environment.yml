@@ -1,0 +1,16 @@
+name: dask-speed
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.7
+- numpy
+- pandas
+- s3fs
+- dask=2.20.0
+- distributed=2.20.0
+- jupyterlab
+- scikit-learn
+- dask-ml
+- xgboost
+- dask-xgboost
