@@ -24,4 +24,6 @@ jupyter lab
 July 15, 2020 - ODSC Applied AI virtual event (recording pending)
 
 - [Slides](odsc_slides.pdf)
-- Video
+- [Video](https://youtu.be/S_ncqocDcBA)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S_ncqocDcBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
