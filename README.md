@@ -26,4 +26,4 @@ July 15, 2020 - ODSC Applied AI virtual event (recording pending)
 - [Slides](odsc_slides.pdf)
 - [Video](https://youtu.be/S_ncqocDcBA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S_ncqocDcBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video](http://img.youtube.com/vi/S_ncqocDcBA/0.jpg)](https://www.youtube.com/watch?v=S_ncqocDcBA "Video")
