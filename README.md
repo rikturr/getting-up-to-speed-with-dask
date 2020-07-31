@@ -21,7 +21,7 @@ jupyter lab
 
 ## Presentations
 
-July 15, 2020 - ODSC Applied AI virtual event (recording pending)
+July 15, 2020 - ODSC Applied AI virtual event
 
 - [Slides](odsc_slides.pdf)
 - [Video](https://youtu.be/S_ncqocDcBA)
