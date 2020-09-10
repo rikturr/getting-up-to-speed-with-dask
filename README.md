@@ -21,7 +21,11 @@ jupyter lab
 
 ## Presentations
 
-July 15, 2020 - ODSC Applied AI virtual event
+### September 11, 2020 - Deep learning adventures meetup
+
+- [Slides](dl_adv_slides.pdf)
+
+### July 15, 2020 - ODSC Applied AI virtual event
 
 - [Slides](odsc_slides.pdf)
 - [Video](https://youtu.be/S_ncqocDcBA)
