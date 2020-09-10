@@ -2,15 +2,17 @@ name: dask-speed
 channels:
 - defaults
 - conda-forge
+# - saturncloud  # if using Saturn Cloud
 dependencies:
 - python=3.7
 - numpy
 - pandas
 - s3fs
+# - dask-saturn==0.0.4  # if using Saturn Cloud
 - dask=2.20.0
 - distributed=2.20.0
 - jupyterlab
 - scikit-learn
 - dask-ml
-- xgboost
+- xgboost==0.90  # pin for dask-xgboost
 - dask-xgboost
