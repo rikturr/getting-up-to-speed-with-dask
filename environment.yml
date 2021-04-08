@@ -8,11 +8,9 @@ dependencies:
 - numpy
 - pandas
 - s3fs
-# - dask-saturn==0.0.4  # if using Saturn Cloud
-- dask=2.20.0
-- distributed=2.20.0
+- dask
+- distributed
 - jupyterlab
 - scikit-learn
 - dask-ml
-- xgboost==0.90  # pin for dask-xgboost
-- dask-xgboost
+- xgboost
