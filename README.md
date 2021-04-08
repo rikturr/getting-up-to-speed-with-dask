@@ -19,7 +19,23 @@ jupyter lab
 2. **Dask laptop**: Same analysis with larger data using Dask, still on laptop. Slow, but executes.
 3. **Dask cluster**: Run analysis with a Dask cluster, super fast!
 
+## Saturn Cloud
+
+To run in [Saturn Cloud](https://www.saturncloud.io/s/home/), create a new Project with the following settings:
+
+![saturn](saturn.png)
+
+Then launch Jupyter, open a new terminal window and clone the repo:
+
+```bash
+git clone https://github.com/rikturr/getting-up-to-speed-with-dask
+```
+
 ## Presentations
+
+### April 8, 20201 - ChiPy meetup
+
+- [Slides](chipy_slides.pdf)
 
 ### September 11, 2020 - Deep learning adventures meetup
 
